@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.krabduke.faders</string>
+	<key>CFBundleName</key>
+	<string>Faders</string>
+	<key>CFBundleDisplayName</key>
+	<string>Faders</string>
+	<key>CFBundleExecutable</key>
+	<string>Faders</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.2</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>Faders changes each app's volume by routing that app's sound through itself. Nothing is recorded or saved.</string>
+</dict>
+</plist>
